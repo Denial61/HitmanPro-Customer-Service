@@ -7,7 +7,7 @@ How Do I Contact HitmanPro Customer Service for Help?
 
 Need help with HitmanPro? Learn how to contact HitmanPro customer service, get support, and resolve common issues easily in this detailed guide.
 
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: HitmanPro Customer Service
    :width: 400px
    :align: center
